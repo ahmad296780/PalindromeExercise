@@ -6,7 +6,10 @@ namespace PalindromeExercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
+
+          //  Console.WriteLine(WordSmith.isAPalindrome("2112"));
+          //  Console.WriteLine(WordSmith.isAPalindrome("Level")); 
         }
     }
 }
